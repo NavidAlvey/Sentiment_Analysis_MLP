@@ -34,7 +34,7 @@
 
 ## Project Structure
 
-- `p1.py`: Main script containing data loading, preprocessing, model definition, training, and evaluation functions.
+- `MultiLayerPreceptron.py`: Main script containing data loading, preprocessing, model definition, training, and evaluation functions.
 - `amazon_cells_labelled.txt`, `imdb_labelled.txt`, `yelp_labelled.txt`: Datasets containing sentences and their sentiment labels (positive/negative).
 
 ## Requirements
